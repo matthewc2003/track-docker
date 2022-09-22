@@ -1,0 +1,8 @@
+Things to try:
+
+Set redis host as just 'redis'
+
+set redis host as 'redis-service'
+
+set redis host as 'host.docker.internal'
+https://stackoverflow.com/questions/60001179/connecting-redis-localhost-from-docker
